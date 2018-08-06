@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "98566316880",
+    "firebase_url": "https://mithilamusic-98c42.firebaseio.com",
+    "project_id": "mithilamusic-98c42",
+    "storage_bucket": "mithilamusic-98c42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98566316880:android:614e66e388dc1932",
+        "android_client_info": {
+          "package_name": "application.android.flora.mithilamusic.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98566316880-dmbtqs7d57v9jc8nnmo9u80v17mci47q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "application.android.flora.mithilamusic.test",
+            "certificate_hash": "d1cd529de0b7eae6b8a38ae63dd810d556c763ad"
+          }
+        },
+        {
+          "client_id": "98566316880-8b0uq3tvpef1c26o3b0aelat9l5qpsmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtKPIJkLXTDnn3H4RRkY-qCPRZXAd1hBY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98566316880-8b0uq3tvpef1c26o3b0aelat9l5qpsmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
